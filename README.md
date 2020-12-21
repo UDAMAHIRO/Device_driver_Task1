@@ -32,7 +32,10 @@ $ sudo chmod 666 /dev/myled0
 以下のコマンドでLEDの点灯、消灯を制御します。
 - 全点灯  
 `$ echo n > /dev/myled0`
+![on](https://user-images.githubusercontent.com/53966257/102808689-0fc41a00-4404-11eb-95f6-511e835a6561.jpg)
 - パ消灯  
 `$ echo p > /dev/myled0`
+![pkie](https://user-images.githubusercontent.com/53966257/102808699-15b9fb00-4404-11eb-97f4-5ea858e2800f.jpg)
 - 全消灯  
 `$ echo f > /dev/myled0`
+![off](https://user-images.githubusercontent.com/53966257/102808703-1783be80-4404-11eb-9d6c-36e0a724abcf.jpg)
