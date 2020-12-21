@@ -15,6 +15,7 @@ Rasberry Pi4 ModelBを用いて複数のLEDを点灯させるデバイスドラ�
 
 **回路**
 - 回路図
+![kairo](https://user-images.githubusercontent.com/53966257/102799893-74787800-43f6-11eb-8710-16dc831a0b78.png)
 - 配線図
 # 使用方法
 ### Build
