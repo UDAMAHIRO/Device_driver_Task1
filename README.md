@@ -22,7 +22,7 @@ Rasberry Pi4 ModelBを用いて複数のLEDを点灯させるデバイスドラ�
 ### Build
 ```
 $ git clone
-$ cd myled
+$ cd Device_driver_Task1
 $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
