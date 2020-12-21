@@ -41,3 +41,5 @@ $ sudo chmod 666 /dev/myled0
 - 全消灯  
 `$ echo f > /dev/myled0`
 ![off](https://user-images.githubusercontent.com/53966257/102808703-1783be80-4404-11eb-9d6c-36e0a724abcf.jpg)
+# License
+[GNU General Public License v3.0 ](https://github.com/UDAMAHIRO/Device_driver_Task1/blob/main/COPYING)
