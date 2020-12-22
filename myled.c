@@ -45,8 +45,7 @@ static ssize_t led_write(struct file* filp, const char* buf, size_t count, loff_
 
 static struct file_operations led_fops = {
 	.owner = THIS_MODULE,
-	.write = led_write,
-	.read = sushi_read
+	.write = led_write
 };
 
 static int __init init_mod(void)
