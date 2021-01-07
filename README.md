@@ -22,7 +22,7 @@ Rasberry Pi4 ModelBを用いて複数のLEDを点灯させるデバイスドラ�
 - 配線図
 ![haisen](https://user-images.githubusercontent.com/53966257/102801251-4bf17d80-43f8-11eb-9e57-121da2fbb52b.jpg)
 # 使用方法
-### Build
+### ビルド
 以下のコマンドを実行します。
 ```
 $ git clone https://github.com/UDAMAHIRO/Device_driver_Task1.git
@@ -31,7 +31,7 @@ $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0
 ```
-### Run
+### 実行
 以下のコマンドでLEDの点灯、消灯を制御します。
 - 全点灯  
 `$ echo n > /dev/myled0`
@@ -42,5 +42,5 @@ $ sudo chmod 666 /dev/myled0
 - 全消灯  
 `$ echo f > /dev/myled0`
 ![off](https://user-images.githubusercontent.com/53966257/102808703-1783be80-4404-11eb-9d6c-36e0a724abcf.jpg)
-# License
+# ライセンス
 [GNU General Public License v3.0 ](https://github.com/UDAMAHIRO/Device_driver_Task1/blob/main/COPYING)
