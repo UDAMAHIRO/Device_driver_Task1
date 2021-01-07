@@ -7,6 +7,10 @@ Rasberry Pi4 ModelBを用いて複数のLEDを点灯させるデバイスドラ�
 [![video](https://user-images.githubusercontent.com/53966257/102808689-0fc41a00-4404-11eb-95f6-511e835a6561.jpg)](https://youtu.be/VaKymj-_3X8)
 
 # 環境
+**動作環境**
+- Raspberry Pi 4 Model B
+- Ubuntu 18.04
+
 **使用したもの**
 |   | 部品名 | 個数 |
 |---:|----|---:|
@@ -23,7 +27,7 @@ Rasberry Pi4 ModelBを用いて複数のLEDを点灯させるデバイスドラ�
 - 配線図
 ![haisen](https://user-images.githubusercontent.com/53966257/102801251-4bf17d80-43f8-11eb-9e57-121da2fbb52b.jpg)
 # 使用方法
-### ビルド
+### インストール方法
 以下のコマンドを実行します。
 ```
 $ git clone https://github.com/UDAMAHIRO/Device_driver_Task1.git
