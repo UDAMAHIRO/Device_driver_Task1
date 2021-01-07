@@ -6,7 +6,7 @@ Rasberry Pi4 ModelBを用いて複数のLEDを点灯させるデバイスドラ�
 # 実行動画
 [![動画](https://youtu.be/VaKymj-_3X8/maxresdefault.jpg)](https://youtu.be/VaKymj-_3X8)
 # 環境
-**使用部品**
+**使用したもの**
 |   | 部品名 | 個数 |
 |---:|----|---:|
 |1 |Raspberry Pi4 ModelB |1 |
