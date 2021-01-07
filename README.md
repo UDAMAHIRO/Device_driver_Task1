@@ -4,7 +4,7 @@
 Rasberry Pi4 ModelBを用いて複数のLEDを点灯させるデバイスドライバを作成しました。
 また、このデバイスドライバは上田隆一教授が2020年度の千葉工業大学ロボットシステム学の講義で作成したデバイスドライバを改変し作成しました。
 # 実行動画
-[![動画](https://youtu.be/VaKymj-_3X8/maxresdefault.jpg)](https://youtu.be/VaKymj-_3X8)
+[![video](https://youtu.be/VaKymj-_3X8/maxresdefault.jpg)](https://youtu.be/VaKymj-_3X8 "video")
 # 環境
 **使用したもの**
 |   | 部品名 | 個数 |
